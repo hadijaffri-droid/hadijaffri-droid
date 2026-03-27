@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hadijaffri-droid
-- 👀 I’m interested in coding and electronics
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on any beginner friendly topic
+- 👀 I’m interested in coding and electronics and in particular model based control engineering with MATLAB/SIMULINK
+- 
 - 📫 How to reach me : You can mail me at hadijaffri@gmail.com
 
 <!---
